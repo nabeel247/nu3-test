@@ -7,5 +7,5 @@ Automated test for checking login functionality
 3. Use the command prompt OR terminal and enter command `npm install`
 4. After node_module installation is finished
 5. Enter command `npx cypress open`
-6. Select E2E
+6. Select `E2E Testing`
 7. Click on `nu3_login.cy.js` spec
